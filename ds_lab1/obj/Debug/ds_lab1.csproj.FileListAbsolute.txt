@@ -1,0 +1,67 @@
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\bin\Debug\ds_lab1.exe.config
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\bin\Debug\ds_lab1.exe
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\bin\Debug\ds_lab1.pdb
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csprojAssemblyReference.cache
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.Properties.Resources.resources
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.GenerateResource.cache
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.exe
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.pdb
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.password_change.resources
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.new_user.resources
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.main.resources
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.info.resources
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.lognpass.resources
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.first.resources
+C:\Users\Katya\source\repos\ds_lab1\ds_lab1\obj\Debug\ds_lab1.list.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\bin\Debug\ds_lab1.exe.config
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\bin\Debug\ds_lab1.exe
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\bin\Debug\ds_lab1.pdb
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csprojAssemblyReference.cache
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.first.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.list.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.main.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.info.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.lognpass.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.new_user.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.password_change.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.Properties.Resources.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.GenerateResource.cache
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.exe
+C:\Users\Katya\Desktop\7 сем\ds_lab1\ds_lab1\obj\Debug\ds_lab1.pdb
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\bin\Debug\ds_lab1.exe.config
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\bin\Debug\ds_lab1.exe
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\bin\Debug\ds_lab1.pdb
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.AssemblyReference.cache
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.first.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.list.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.main.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.info.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.lognpass.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.new_user.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.password_change.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.Properties.Resources.resources
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.GenerateResource.cache
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.exe
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.pdb
+C:\Users\Katya\Desktop\7 сем\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.phrase.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.AssemblyReference.cache
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.first.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.list.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.main.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.info.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.lognpass.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.new_user.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.password_change.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.phrase.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.Properties.Resources.resources
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.GenerateResource.cache
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.exe
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.pdb
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\bin\Debug\ds_lab1.exe.config
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\bin\Debug\ds_lab1.exe
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\bin\Debug\ds_lab1.pdb
+C:\Users\Katya\Desktop\ds_lab3\ds_lab1\ds_lab1\obj\Debug\ds_lab1.newpassphrase.resources
